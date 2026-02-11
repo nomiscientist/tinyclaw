@@ -15,12 +15,11 @@ dist/
 *.log
 
 # Environment variables
-.env
 
 # OS files
 .DS_Store
 
 # Editor
-.vscode/
 .idea/
 *.swp
+config.bat
